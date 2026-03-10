@@ -2,7 +2,7 @@
 pragma solidity ^0.8.0;
 
 import "@openzeppelin/contracts/access/Ownable.sol";
-//import "./day10_Ownable.sol";
+//import "./day11_Ownable.sol";
 
 contract VaultMaster is Ownable{
     //VaultMaster inherirent Ownable's function & variable & modifier
